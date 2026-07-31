@@ -9,7 +9,8 @@ A Raycast extension for speech-to-text dictation powered by [Mistral's Voxtral](
 - **Customizable reformulation prompt** — Configure the system prompt used for reformulation in the extension preferences.
 
 ## Prerequisites
-
+- ID  me #1
+- contracts-logistics-forecast-autodedelde
 - [Raycast](https://raycast.com)
 - [SoX](http://sox.sourceforge.net/) for microphone recording:
   ```
